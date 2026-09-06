@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**Akida1122-akd/Akida1122-akd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+你好，我是广东工业大学计算机专业的一名本科生。
 
-Here are some ideas to get you started:
+- 🎓 目前在校学习计算机相关专业，正在学习软件工程、程序开发等课程；
+- 💻 主要接触 C、Python 编程语言，正在积累代码量，练习写程序、调试bug；
+- 📖 正在阅读《构建之法》，学习软件工程思想，了解真实的软件开发流程；
+- ✍️ 习惯写学习博客复盘知识，记录课程作业、踩坑笔记与学习感悟；
+- 🤝 乐于和同学交流技术，遇到问题会主动查阅资料、请教他人；
+- 🎯 目标：夯实编程基础，锻炼项目实践与团队协作能力，努力成为合格的开发人员。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 兴趣方向
+- 程序开发、软件工程实践
+- 技术文档阅读，总结与输出
+
+## 目前计划
+1. 认真完成软件工程课程全部作业，坚持更新博客园学习随笔；
+2. 积累代码量，熟练掌握 Git / GitHub 的基础使用；
+3. 参与小组项目，锻炼团队协作能力；
+4. 持续阅读专业书籍，补齐工程实践短板。
+   本仓库用来存放个人学习记录与课程作业，欢迎交流指正。
